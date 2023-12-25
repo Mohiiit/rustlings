@@ -1,8 +1,10 @@
 <div class="oranda-hide">
 
-# rustlings 🦀❤️
+# rustlings 🦀❤️ Solutions
 
 </div>
+
+Here are the solutions of the rustlings.
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
 
